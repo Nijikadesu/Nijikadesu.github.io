@@ -1,4 +1,5 @@
 site_name: My Docs
+<<<<<<< HEAD
 site_url: https://nijikadesu.github.io/
 theme:
   name: material
@@ -18,3 +19,5 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+=======
+>>>>>>> parent of ae7345f (modify mkdocs material)
