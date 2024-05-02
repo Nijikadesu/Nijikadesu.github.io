@@ -15,6 +15,8 @@ nav:
     - 动态规划: Leetcode/动态规划.md
     - 链表: Leetcode/链表.md
     - 数组: Leetcode/数组.md
+  - test:
+    - test: test/test.md
 
 theme:
   name: material
