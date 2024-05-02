@@ -1,5 +1,5 @@
-# Hi there
-##  Welcome to Mingkun Chang's Website!
+# Hi there, welcome to my website!
+##  About this website.
 
 这里是常鸣坤的个人网站 [https://nijikadesu.github.io](https://nijikadesu.github.io)
 
@@ -9,13 +9,13 @@
 
 如何浏览我的文章？
 
-- 如果你是PC端
+- 如果你是PC端:
     -  请通过上方标签栏选择主题 在左侧目录选择文章
-- 如果你是PE端
+- 如果你是PE端:
     -  请点击左上角图标打开菜单栏选择主题和文章
 
 ****
-## 关于我
+## About me.
 
 我是西安电子科技大学人工智能专业的一名大二学生
 
