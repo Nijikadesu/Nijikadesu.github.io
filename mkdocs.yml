@@ -11,13 +11,20 @@ site_description: Mingkun Chang's Website
 
 #  [Navigation]
 nav:
-  - 力扣做题笔记:
-    - 动态规划: Leetcode/动态规划.md
-    - 链表: Leetcode/链表.md
-    - 数组: Leetcode/数组.md
-  - test:
-    - test: test/test.md
-
+  - Home:
+    - index.md
+  - Blog:
+    - blog/index.md
+  - LeetCode Note:
+    - Leetcode/index.md
+    - 动态规划: Leetcode/note/动态规划.md
+    - 链表: Leetcode/note/链表.md
+    - 数组: Leetcode/note/数组.md
+  - Kaggle Note:
+    - 机器学习初步: Kaggle/机器学习初步.md
+  - Read Paper:
+    - Attention Is All You Need
+    - Generative Adversarial Nets
 theme:
   name: material
   palette: 
@@ -34,10 +41,11 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-  logo: images/Omae.png
+  # logo: images/Omae.png
   favicon: images/Omae.png
 
   features:
+
     # 使用 Tab 来进行分类
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-tabs
     - navigation.tabs
@@ -104,6 +112,10 @@ extra:
 
 # [Extensions]
 plugins:
+  # [博客功能]
+  - blog:
+    # - post_data_format: full
+    # - post_excerpt_separator: <!-- more -->
   # [搜索功能]
   # https://squidfunk.github.io/mkdocs-material/plugins/search/
   # 之前中文搜索是 Insider 的功能（https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/），现在好像已经是默认功能了，
