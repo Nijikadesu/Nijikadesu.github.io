@@ -91,7 +91,7 @@ extra:
       icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/439030348
     - name: Leetcode | 1tsMyGO
-      icon: fontawesome/brands/leetcode
+      icon: simple/leetcode
       link: https://leetcode.cn/u/modest-hodgkinnie
     - name: Kaggle | mingkun
       icon: fontawesome/brands/kaggle
