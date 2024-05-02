@@ -1,7 +1,20 @@
+# 声明
+# 本仓库配置文件参考b站视频https://www.bilibili.com/video/BV1hL4y1w72r/?spm_id_from=333.337.search-card.all.click&vd_source=24a80c820080f624a6de7a8a67c62a24
+# 原作者(b站up主杨希杰619)博客网址https://yang-xijie.github.io/
+# 原作者GithubPage仓库地址https://github.com/Yang-Xijie/yang-xijie.github.io
+# 感谢杨学长的知识分享，也请大家多多支持原作者！！！
+
 site_name: 常鸣坤的个人网站
 site_url: https://nijikadesu.github.io/
 site_author: 常鸣坤
 site_description: Mingkun Chang's Website
+
+#  [Navigation]
+nav:
+  - 力扣做题笔记:
+    - 动态规划: Leetcode/动态规划.md
+    - 链表: Leetcode/链表.md
+    - 数组: Leetcode/数组.md
 
 theme:
   name: material
