@@ -34,6 +34,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+  favicon: images/kumiko.jpg
 
   features:
     # 使用 Tab 来进行分类
