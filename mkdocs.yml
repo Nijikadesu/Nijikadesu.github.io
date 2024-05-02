@@ -90,8 +90,11 @@ extra:
     - name: Bilibili | 風と行く道
       icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/439030348
+    - name: Leetcode | 1tsMyGO
+      icon: fontawesome/brands/leetcode
+      link: https://leetcode.cn/u/modest-hodgkinnie
     - name: Kaggle | mingkun
-      icon: fontawesome/brands/qq
+      icon: fontawesome/brands/kaggle
       link: https://www.kaggle.com/mingkunc
 
 
