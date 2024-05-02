@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Hi there
+##  Welcome to Mingkun Chang's Website!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这里是常鸣坤的个人网站 [https://nijikadesu.github.io](https://nijikadesu.github.io)
 
-## Commands
+在这个网站中，我会分享我的日常学习、工作与生活，也会记录一些有意思的东西
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+希望我们都能在探索中遇到更好的自己^^
 
-## Project layout
+如何浏览我的文章？
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- 如果你是PC端
+    -  请通过上方标签栏选择主题 在左侧目录选择文章
+- 如果你是PE端
+    -  请点击左上角图标打开菜单栏选择主题和文章
+
+****
+## 关于我
+
+我是西安电子科技大学人工智能专业的一名大二学生
+
+我的爱好有看动漫，玩FPS游戏
+
+我对机器学习/深度学习算法很感兴趣
