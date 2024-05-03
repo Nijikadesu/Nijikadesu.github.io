@@ -14,6 +14,7 @@ nav:
   - Home:
     - Home/index.md
     - 个人简历: Home/CV.md
+    - 获奖经历: Home/prize.md
   - Blog:
     - blog/index.md
   - Machine Learning:
