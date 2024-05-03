@@ -12,7 +12,7 @@ site_description: Mingkun Chang's Website
 #  [Navigation]
 nav:
   - Home:
-    - index.md
+    - Home/index.md
   - Blog:
     - blog/index.md
   - LeetCode Note:
@@ -114,8 +114,6 @@ extra:
 plugins:
   # [博客功能]
   - blog:
-    # - post_data_format: full
-    # - post_excerpt_separator: <!-- more -->
   # [搜索功能]
   # https://squidfunk.github.io/mkdocs-material/plugins/search/
   # 之前中文搜索是 Insider 的功能（https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/），现在好像已经是默认功能了，

@@ -88,14 +88,17 @@ Content will be shown on the right side.
 The blog home page demo and the blog content page demo are shown as follows.
 
 <figure markdown> 
-    ![Image title](img\20240502\1.png) 
+    ![blog home page](img/20240502/1.png){align=center}
     <figcaption>blog home page</figcaption>
 </figure>
 
+
 <figure markdown> 
-    ![Image title](img\20240502\2.png) 
+    ![Image title](img\20240502\2.png){align=center}
     <figcaption>blog content page</figcaption>
 </figure>
+
+![blog home page](img/20240502/1.png){align=center}
 
 ## learn more
 Get more infomation and high-level blog building skills from:
