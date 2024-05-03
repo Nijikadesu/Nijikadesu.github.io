@@ -13,18 +13,35 @@ site_description: Mingkun Chang's Website
 nav:
   - Home:
     - Home/index.md
+    - 个人简历: Home/CV.md
   - Blog:
     - blog/index.md
+  - Machine Learning:
+    - ML/index.md
+  - Deep Learning:
+    - DL/index.md
+  - Math:
+    - Math/index.md
+  - Read Paper:
+    - Paper/index.md
+    - Attention Is All You Need: 
+      - Paper/Transformer/index.md
+      - Details: Paper/Transformer/content.md
+    - Generative Adversarial Nets:
+      - Paper/GANs/index.md
+      - Details: Paper/GANs/content.md
   - LeetCode Note:
     - Leetcode/index.md
     - 动态规划: Leetcode/note/动态规划.md
     - 链表: Leetcode/note/链表.md
     - 数组: Leetcode/note/数组.md
   - Kaggle Note:
-    - 机器学习初步: Kaggle/机器学习初步.md
-  - Read Paper:
-    - Attention Is All You Need
-    - Generative Adversarial Nets
+    - Kaggle/index.md
+    - 机器学习初步: Kaggle/note/机器学习初步.md
+  - Course Note:
+    - Course/index.md
+  - Tools:
+    - Tools/index.md
 theme:
   name: material
   palette: 
