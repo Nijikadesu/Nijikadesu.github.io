@@ -1,6 +1,6 @@
 Welcome to my github page repo!
 
-This page was made with [mkdocs][https://squidfunk.github.io/mkdocs-material/]
+This page was made with [Mkdocs Material](https://github.com/squidfunk/mkdocs-material)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
