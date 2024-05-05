@@ -2,7 +2,7 @@
 authors:
     - mingkun
 categories:
-    - blog demo
+    - Mkdocs使用
 date: 2024-05-02
 tags:
     - mkdocs
