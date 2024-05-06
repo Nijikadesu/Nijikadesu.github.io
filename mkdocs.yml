@@ -21,6 +21,9 @@ nav:
     - ML/index.md
   - Deep Learning:
     - DL/index.md
+    - PyTorch基础:
+      - DL/PyTorch/index.md
+      - 深度学习工作流程: DL/PyTorch/PyTorch1.md
   - Math:
     - Math/index.md
   - Read Paper:
